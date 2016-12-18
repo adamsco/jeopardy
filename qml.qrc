@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>BaseItem.qml</file>
+        <file>QuestionGrid.qml</file>
+        <file>QuestionCard.qml</file>
+    </qresource>
+</RCC>
